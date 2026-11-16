@@ -74,4 +74,4 @@ This project is licensed under the [ISC License](LICENSE).
 
 ## Author
 
-Mohit Raj Panday
+Test User
