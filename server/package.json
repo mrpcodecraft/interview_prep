@@ -11,7 +11,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "Mohit Raj Panday",
+  "author": "Test User",
   "license": "ISC",
   "dependencies": {
     "@types/body-parser": "^1.19.5",
