@@ -33,8 +33,8 @@ export class Router {
           summary: "The Knowledge Bank API is a question-bank management application.",
           description: "It provides an intuitive and efficient way to organize your categories, subcategories, and questions.",
           contact: {
-            "name": "Mohit Raj Panday",
-            // "email": "test@test.com"
+            "name": "Test User",
+            "email": "test@test.com"
           },
           servers: ["http://localhost:4000"]
         },
